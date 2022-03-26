@@ -1,6 +1,7 @@
 #include<iostream>
 #include"list.h"
 using namespace std;
+//linkedlist
 int main(){
     Node list;
     int ch=-1;
