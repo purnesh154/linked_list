@@ -2,6 +2,7 @@
 #include"list.h"
 using namespace std;
 //linkedlist
+//Purnesh Joshi
 int main(){
     Node list;
     int ch=-1;
